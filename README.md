@@ -1,6 +1,6 @@
 # Finance Semantic Clustering
 ----------------------------------
-I, along with a peer of mine, presented that implementation of finance and market analytics in Mantis, a visual data science platform. Presenting at MIT IAP course week during the Deploying AI with Finance lecture was an unforgettable moment and this repository contains a program used for this class as a workshop. I created this program to showcase the clustering capability of Mantis AI and its powerful ability to find similar/old patterns with data, mapping them to users.
+I, along with a peer of mine, presented that implementation of finance and market analytics in Mantis, a visual data science platform. Presenting at MIT IAP (EECS) course week during the Deploying AI with Finance lecture (MIT 6.S187) was an unforgettable moment and this repository contains a program used for this class as a workshop. I created this program to showcase the clustering capability of Mantis AI and its powerful ability to find similar/old patterns with data, mapping them to users.
 
 This project was created in Google COLAB using the Python programming language, incorporating features such as embeddings, ingestion, mapping, and more - the core of Mantis. 
 
