@@ -1,0 +1,11 @@
+
+"""| Concept    | COLAB Notebook            | Mantis                |
+| ---------- | ------------------- | --------------------- |
+| Ingestion  | CSV + text          | Multi-modal pipeline  |
+| Embeddings | SentenceTransformer | Embedding service     |
+| Map        | UMAP plot / MATPLOT Figure           | Cognitive cartography |
+| Selection  | DataFrame slicing   | Lasso + bags          |
+| Reasoning  | Prompt over subset  | Agents + narrator     |
+| Analysis   | Pandas tables       | Interactive tables - visual points    |
+
+"""
